@@ -1,9 +1,8 @@
 #!/bin/bash
 #################################################################################
 #Group files according to a predefined size limit to ease burning media. 
-#Written by gllo, April 2008
-#Copyright (C) 2008-2019 GLATT Lőrinc (gllo)
-#E-mail: lorinc.glatt@gmail.com
+#Copyright (C) 2008-2019 GLATT Lőrinc
+#E-mail: gllogit@freemail.hu
 #
 #This program is free software: you can redistribute it and/or modify it
 #under the terms of the GNU General Public License as published by the Free
